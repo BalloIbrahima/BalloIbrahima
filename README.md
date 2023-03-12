@@ -1,5 +1,5 @@
 ### Hi there 👋... I'm BALLO Ibrahima
-![Profil](photo.jpg)
+![Profil](photo.JPG)
 - 🔭 I am currently working on spring boot, angular, ionic projects
 - 🌱 I’m currently learning IA
 - 👯 I’m looking to collaborate on IA project
