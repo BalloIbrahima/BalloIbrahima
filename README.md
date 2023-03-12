@@ -1,4 +1,8 @@
 ### Hi there 👋... I'm BALLO Ibrahima
+
+- 🔭 I am currently working on spring boot, angular, ionic projects
+- 🌱 I’m currently learning IA
+- 👯 I’m looking to collaborate on IA project
 - 📫 How to reach me: ibrahimaballo01@gmail.coom
 <!--
 **BalloIbrahima/BalloIbrahima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
