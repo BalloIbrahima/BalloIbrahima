@@ -1,6 +1,6 @@
 ### Hi there 👋... I'm BALLO Ibrahima
 <!-- ![Profil](moi.png "Ibrahima BALLO") -->
-<img src="moi.png"  height="200"  alt="Ibrahima BALLO" />
+<img src="moi.png"  height="300"  alt="Ibrahima BALLO" />
 
 - 🔭 I am currently working on spring boot, angular, ionic projects
 - 🌱 I’m currently learning IA
