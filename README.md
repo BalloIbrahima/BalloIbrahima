@@ -1,5 +1,5 @@
 ### Hi there 👋... I'm BALLO Ibrahima
-
+- 📫 How to reach me: ibrahimaballo01@gmail.coom
 <!--
 **BalloIbrahima/BalloIbrahima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
