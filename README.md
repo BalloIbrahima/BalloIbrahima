@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning IA
 - 👯 I’m looking to collaborate on IA project
 - 👀 I’m interested in IA, spring boot, angular, ionic, flutter ...
-- 📫 How to reach me: ibrahimaballo01@gmail.coom
+- 📫 How to reach me: ibrahimaballo01@gmail.com
 <!--
 **BalloIbrahima/BalloIbrahima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
