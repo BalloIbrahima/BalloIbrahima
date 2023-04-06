@@ -7,6 +7,10 @@
 - 👯 I’m looking to collaborate on IA project
 - 👀 I’m interested in IA, spring boot, angular, ionic, flutter ...
 - 📫 How to reach me: ibrahimaballo01@gmail.com
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=BalloIbrahima&show_icons=true&locale=en&layout=compact" alt="BalloIbrahima" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=BalloIbrahima&show_icons=true&locale=en" alt="BalloIbrahima" /></p>
 <!--
 **BalloIbrahima/BalloIbrahima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
