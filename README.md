@@ -11,6 +11,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=BalloIbrahima&show_icons=true&locale=en" alt="BalloIbrahima" /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=BalloIbrahima&label=Profile%20views&color=0e75b6&style=flat" alt="BalloIbrahima" /> </p>
 
+|![](https://github-readme-stats.vercel.app/api?username=BalloIbrahima&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=BalloIbrahima&layout=compact&theme=tokyonight&langs_count=10)|
+|-|-|
+![snake](https://raw.githubusercontent.com/BalloIbrahima/BalloIbrahima/output/github-contribution-grid-snake.svg)
+
 <!--
 **BalloIbrahima/BalloIbrahima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
