@@ -13,7 +13,7 @@
 |-|-|
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=BalloIbrahima&show_icons=true&locale=en" alt="BalloIbrahima" /></p> -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=BalloIbrahima&label=Profile%20views&color=0e75b6&style=flat" alt="BalloIbrahima" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=BalloIbrahima&label=Profile%200views&color=0e75b6&style=flat" alt="BalloIbrahima" /> </p>
 
 <!-- ![snake](https://raw.githubusercontent.com/BalloIbrahima/BalloIbrahima/output/github-contribution-grid-snake.svg) -->
 
