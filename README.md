@@ -9,8 +9,8 @@
 - 📫 How to reach me: ibrahimaballo01@gmail.com
 
 
-|![](https://github-readme-stats.vercel.app/api?username=BalloIbrahima&&show_icons=true&locale=en)
-<!--|![](https://github-readme-stats.vercel.app/api/top-langs/?username=BalloIbrahima&layout=compact&langs_count=10)|
+![](https://github-readme-stats.vercel.app/api?username=BalloIbrahima&&show_icons=true&locale=en)
+<!--||![](https://github-readme-stats.vercel.app/api/top-langs/?username=BalloIbrahima&layout=compact&langs_count=10)|
 |-|-|-->
 
 
