@@ -7,6 +7,7 @@
 - 👯 I’m looking to collaborate on IA project
 - 👀 I’m interested in IA, spring boot, angular, ionic, flutter ...
 - 📫 How to reach me: ibrahimaballo01@gmail.com
+     You can also know more information about me on https://ibrahima.ballo.ml 
 
 
 ![](https://github-readme-stats.vercel.app/api?username=BalloIbrahima&&show_icons=true&locale=en)
